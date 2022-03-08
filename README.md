@@ -1,5 +1,5 @@
 # React Decorative Charts
-Library for creation decorative svg charts. 
+Library for making decorative svg charts. 
 Designed in order to emphasize the design of the app.
 
 [![npm version](https://img.shields.io/npm/v/react-decorative-charts.svg?style=flat-square)](https://www.npmjs.com/package/react-decorative-charts)
