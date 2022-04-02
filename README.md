@@ -4,7 +4,7 @@ Designed in order to emphasize the design of the app.
 
 [![npm version](https://img.shields.io/npm/v/react-decorative-charts.svg?style=flat-square)](https://www.npmjs.com/package/react-decorative-charts)
 
-[![](https://i.imgur.com/kYgCNcI.png)](https://i.imgur.com/kYgCNcI.png)
+[![](https://i.imgur.com/YXzOa3m.png)](https://i.imgur.com/YXzOa3m.png)
 
 **All colors must be specified in rgb format**
 
