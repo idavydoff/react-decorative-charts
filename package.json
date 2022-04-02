@@ -1,11 +1,12 @@
 {
   "name": "react-decorative-charts",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "description": "Decorative charts for react",
   "files": ["lib", "index.d.ts", "readme.md"],
   "keywords": ["react", "charts", "chart", "react chart", "react charts"],
   "main": "lib/index.js",
   "repository": "github:IDSaves/react-decorative-charts",
+  "homepage": "https://davy.page/react-decorative-charts",
   "scripts": {
     "build": "tsc"
   },

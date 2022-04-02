@@ -6,6 +6,8 @@ Designed in order to emphasize the design of the app.
 
 [![](https://i.imgur.com/YXzOa3m.png)](https://i.imgur.com/YXzOa3m.png)
 
+[DEMO PAGE](https://davy.page/react-decorative-charts)
+
 **All colors must be specified in rgb format**
 
 ## Line chart
